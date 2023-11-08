@@ -7,7 +7,7 @@ Este projeto contém testes end-to-end usando Cypress para uma API fictícia de 
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/tobiascorrea/test-cypress-api.git
+git clone
 ```
 
 ### 2. Entre no Diretório do Projeto
